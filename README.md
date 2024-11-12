@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanyavarshini" alt="dhanyavarshini" /></a> </p>
 
-- 🌱 I’m currently learning **Java, React**
+- 🌱 I’m currently learning **Java, JavaScript**
 
 - 📫 How to reach me **jdhanyavarshini@gmail.com**
 
